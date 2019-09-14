@@ -1,4 +1,6 @@
 This fixes the buy count on the vending machine GUI so that it can have an entered value
 
+[img]https://raw.githubusercontent.com/thakyZ/VendingMachineFix/media/img0.png[/img]
+
 [b]Steam[/b]: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1862370610[/url]
 [b]Github[/b]: [url]https://github.com/thakyZ/VendingMachineFix[/url]
