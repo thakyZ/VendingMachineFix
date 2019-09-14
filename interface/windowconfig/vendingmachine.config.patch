@@ -1,0 +1,6 @@
+[
+  [
+    { "op": "test", "path": "/paneLayout/bgShine/mouseTransparent", "inverse": true },
+    { "op": "add", "path": "/paneLayout/bgShine/mouseTransparent", "value": true }
+  ]
+]

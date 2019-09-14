@@ -1,0 +1,9 @@
+{
+  "author" : "thakyZ",
+  "description" : "This fixes the buy count on the vending machine GUI so that it can have an entered value",
+  "friendlyName" : "Vending Machine Fix",
+  "link" : "steam://url/CommunityFilePage/1862370610",
+  "name" : "VendingMachineFix",
+  "steamContentId" : "1862370610",
+  "version" : "1.0.0"
+}
