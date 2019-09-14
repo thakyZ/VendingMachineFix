@@ -1,0 +1,4 @@
+This fixes the buy count on the vending machine GUI so that it can have an entered value
+
+[b]Github[/b]: [url]https://github.com/thakyZ/VendingMachineFix[/url]
+[b]Chucklefish Forums[/b]: [url][/url]
